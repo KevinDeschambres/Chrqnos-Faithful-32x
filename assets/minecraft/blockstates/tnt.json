@@ -1,0 +1,5 @@
+{
+    "variants": {
+		"unstable=true": { "model": "block/tnt_unstable_true"}
+    }
+}
