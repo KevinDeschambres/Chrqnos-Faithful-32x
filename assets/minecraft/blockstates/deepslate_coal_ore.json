@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "minecraft:block/ore/coal/deepslate/0" },
-            { "model": "minecraft:block/ore/coal/deepslate/1" },
-            { "model": "minecraft:block/ore/coal/deepslate/2" }
-        ]
-    }
-}

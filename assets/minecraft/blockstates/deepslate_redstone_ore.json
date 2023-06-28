@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "minecraft:block/ore/redstone/deepslate/0" },
-            { "model": "minecraft:block/ore/redstone/deepslate/1" },
-            { "model": "minecraft:block/ore/redstone/deepslate/2" }
-        ]
-    }
-}

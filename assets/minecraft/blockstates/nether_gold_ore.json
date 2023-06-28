@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "minecraft:block/ore/gold/nether/0" },
-            { "model": "minecraft:block/ore/gold/nether/1" },
-            { "model": "minecraft:block/ore/gold/nether/2" }
-        ]
-    }
-}

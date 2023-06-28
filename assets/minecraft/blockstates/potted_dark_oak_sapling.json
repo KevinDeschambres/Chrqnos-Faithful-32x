@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-			{ "model": "block/flower_pot/sapling/dark_oak_pot" },
-			{ "model": "block/flower_pot/sapling/dark_oak_pot0" }
-		]
-    }
-}
