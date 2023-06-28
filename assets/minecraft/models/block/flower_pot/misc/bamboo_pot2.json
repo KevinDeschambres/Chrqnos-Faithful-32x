@@ -1,0 +1,8 @@
+{
+    "__comment": "JimStoneCraft - 2014, ErGT - 2017",
+    "parent": "block/flower_pot/misc/bamboo_pot0",
+    "textures": {
+        "particule": "block/flower_pot0",
+	  "flowerpot": "block/flower_pot0"
+    }
+}
