@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/ore/gold/deepslate/0" },
+            { "model": "minecraft:block/ore/gold/deepslate/1" },
+            { "model": "minecraft:block/ore/gold/deepslate/2" }
+        ]
+    }
+}

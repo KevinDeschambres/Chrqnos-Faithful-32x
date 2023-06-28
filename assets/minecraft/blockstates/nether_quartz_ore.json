@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/ore/quartz/0" },
+            { "model": "minecraft:block/ore/quartz/1" },
+            { "model": "minecraft:block/ore/quartz/2" }
+        ]
+    }
+}

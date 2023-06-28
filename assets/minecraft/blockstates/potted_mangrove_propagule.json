@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/sapling/mangrove_pot" },
+			{ "model": "block/flower_pot/sapling/mangrove_pot0" }
+		]
+    }
+}

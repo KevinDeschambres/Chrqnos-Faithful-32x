@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/sapling/flowering_azalea_pot" },
+			{ "model": "block/flower_pot/sapling/flowering_azalea_pot0" }
+		]
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/cobblestone/block/cobblestone"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone0"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone1"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone2"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone3"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone4"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone5"
+      },
+      {
+        "model": "block/cobblestone/block/cobblestone6"
+      }
+    ]
+  }
+}
